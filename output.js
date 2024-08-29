@@ -1,4 +1,4 @@
-//Thu Aug 29 2024 04:18:06 GMT+0000 (Coordinated Universal Time)
+//Thu Aug 29 2024 04:24:25 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env('玩一玩_指定助力');
